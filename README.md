@@ -1,7 +1,5 @@
 # Metodos Computacionales 2
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegour1/MetodosComputacionales2_202620/main)
-
 Material del curso de Métodos Computacionales 2 de Uniandes 2026 20
 
 > Nota: el material aquí publicado es basado del [proyecto académico de enseñanza de Física Computacional [ComputoCienciasUniandes]](http://computocienciasuniandes.github.io/)
